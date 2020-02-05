@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259765972111",
+    "firebase_url": "https://terceira-7e676.firebaseio.com",
+    "project_id": "terceira-7e676",
+    "storage_bucket": "terceira-7e676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259765972111:android:452fc673c6de33e41354fa",
+        "android_client_info": {
+          "package_name": "com.example.projeto_firebase_novo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259765972111-mm6ifh2arb9f2gkf6b2dp6rsn2kc7inc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto_firebase_novo",
+            "certificate_hash": "93a2d32e471b053843b45f05d55d5bcf1c31a0d5"
+          }
+        },
+        {
+          "client_id": "259765972111-7moga8ea5tkpjl0n3sdpjmukq1fb973m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMJKOKLD8ADEIFnJJt2PnBehEWFlGvaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259765972111-7moga8ea5tkpjl0n3sdpjmukq1fb973m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
